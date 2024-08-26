@@ -29,7 +29,7 @@ Model Training:
  * Split Data: Divide the dataset into training and testing sets.
  * Initialize Model: Create an XGBoost Regressor instance.
  * Train Model: Fit the model to the training data.
- * 
+
 Model Evaluation:
  * Predictions: Make predictions on the testing set.
  * Metrics: Evaluate the model's performance using appropriate metrics eg (Mean Absolute Error)
